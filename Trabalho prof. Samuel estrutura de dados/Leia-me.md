@@ -2,7 +2,7 @@
 
 <h2>1º- No projeto lista implemente um método de busca (search), de forma que a partir de um valor dado, retorne de o valor existe ou não (retornar true no caso de existente, e false no caso de não existente). public boolean search(int value); .</h2>
 
-<p>🪲 Classe List</p>
+<p> Classe List</p>
 
      public interface List {
      -     public void add(int value);
@@ -19,7 +19,7 @@
      }
   
   
-<p>🪲 Adicionando Método search na Classe LinkedList:
+<p> Adicionando Método search na Classe LinkedList:
 	
 	
      public boolean search(int value) {
@@ -43,7 +43,7 @@
 </br>
 <h2>2º- Explique os seguintes termos e operações, descrevendo o cenário de cada um. </h2>
 
-<p>🪲 a. FIFO:</p>
+<p> a. FIFO:</p>
 
      FIFO = FIRST IN, FIST OUT.
      
@@ -54,7 +54,7 @@
             A primeira pessoa a chegar na fila será a primeira a ser atendida
         
 	
-<p>🪲 a. FILO:</p>
+<p> a. FILO:</p>
 
      FILO = FIRST IN, LAST OUT.
      
@@ -74,7 +74,7 @@
 </br>
 <h2>3º- Pesquise cenários de uso prático das seguintes estruturas de dados. </h2>
 
-<p>🪲 a. Pilha:</p>
+<p> a. Pilha:</p>
 
      Um editor de texto que possui o atalho de "voltar" (crtl + z).
      
@@ -83,7 +83,7 @@
      Sendo o ultimo caratere o "topo da pila".
      
   
-<p>🪲 a. Fila:</p>
+<p> a. Fila:</p>
 
      O software de uma impressora.
     
@@ -92,7 +92,7 @@
      Com o sistema de fila pode-se controlar a ordem que cada um será impresso.
     
     
-<p>🪲 a. árvore:</p>
+<p> a. árvore:</p>
     
      Sites.
      
@@ -111,19 +111,19 @@
 </p>
 <h2>4º- partir a arvore da figura acima:</h2>
 </br>
-<p>🪲 a. Descreva a saída para exibição em ordem:</p>
+<p> a. Descreva a saída para exibição em ordem:</p>
 	
      4 - 7 - 16 - 18 - 20 - 37 - 38 - 43
 	
-<p>🪲 b. Descreva a saída para exibição em pós-ordem:</p>
+<p> b. Descreva a saída para exibição em pós-ordem:</p>
 	
      4 - 18 - 16 - 7 - 37 - 43 - 38 - 20
 	 
-<p>🪲 c. Descreva a saída para exibição em pré-ordem:</p>
+<p> c. Descreva a saída para exibição em pré-ordem:</p>
 
      20 - 7 - 4 - 16 - 18 - 38 - 37 - 43
 	
-<p>🪲 d. Indique o nível o grau de cada um dos nós:</p>
+<p> d. Indique o nível o grau de cada um dos nós:</p>
 	
      De grau = 2: 20 - 7 - 38
 	
